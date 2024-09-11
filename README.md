@@ -24,6 +24,12 @@ pages
     - `translated-raw` means the page has been translated to English in a way that keeps every English word in front of its sequence of Runic symbols.
     - `translated-clean` means the page has been fully translated to English in neat paragraphs.
 
+To access any page, use the following URL:
+
+```
+https://raw.githubusercontent.com/aryanpingle/Tunic-Manual-Pages/master/pages/<quality>/<language>/<index>.jpg
+```
+
 ## Disclaimer
 
 I'm not a lawyer so I don't know how to write this, but here goes:
